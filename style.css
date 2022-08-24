@@ -1,0 +1,212 @@
+.body{
+    margin: 0;
+}
+.banner{
+    height: 550px;
+    width: 100%;
+    background-image: url("images/donation9.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+
+.banner h3{
+    color:whitesmoke;
+    font-size: 35px;
+    margin-left: 50px;
+    padding-top: 160px;
+}
+
+.banner h6{
+    color:whitesmoke;
+    font-size: 25px;
+    margin-left: 50px;
+    padding-top: 20px;
+
+}
+
+
+.banner-button{
+    /* text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    margin-left: 50px; */
+             
+    text-decoration: none;
+    padding: 10px 40px;
+    margin-left: 50px;
+            background-image: linear-gradient(to right, #2b5876 0%, #4e4376  51%, #2b5876  100%);
+            /* margin: 10px; */
+            padding: 15px 45px;
+            text-align: center;
+            text-transform: uppercase;
+            transition: 0.5s;
+            background-size: 40%;
+            color: white;            
+            box-shadow: 0 0 20px #eee;
+            border-radius: 10px;
+            /* display: block; */
+}
+
+.banner-button:hover {
+      background-position: right center;/* change the direction of the change here  */
+    color: #fff;
+    text-decoration: none;
+  }
+
+  .donate-today {
+      display:flex;
+      padding-left: 30%;
+      margin-top: 50px;
+  }
+  .donate-today h4{
+      color:black;
+      font-size: 25px;
+      padding-left: 15px;
+      padding-right: 15px;
+  }
+
+  .best-donate {
+      padding-bottom: 15px;
+      height:60px;
+      width:130px;
+      background-color:bisque;
+      border: none;
+      border-radius:5px;
+  }
+
+   .best-donate h4 {
+      text-align: center;
+
+   }
+
+  .donate-caption{
+      text-align: center;
+      margin-top: 80px;
+      margin-bottom: 50px;
+      padding-left: 20%;
+      padding-right: 20%;
+  }
+  .donate-end{
+      margin-top: 80px;
+  }
+
+  .donate-button{
+    /* text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    margin-left: 50px; */
+             
+    text-decoration: none;
+    padding: 10px 40px;
+    
+    margin-left: 600px;
+            background-image: linear-gradient(to right, #2b5876 0%, #4e4376  51%, #2b5876  100%);
+            /* margin: 10px; */
+            padding: 15px 45px;
+            text-align: center;
+            text-transform: uppercase;
+            transition: 0.5s;
+            background-size: 40%;
+            color: white;            
+            box-shadow: 0 0 20px #eee;
+            border-radius: 10px;
+            /* display: block; */
+}
+
+.donate-button:hover {
+      background-position: right center;/* change the direction of the change here  */
+    color: #fff;
+    text-decoration: none;
+  }
+
+  .two { height: 400px;
+    width: 100%;
+    padding-left: 5%;
+margin-top: 80px;}
+                  
+  .secotion_two_firstpart { width: 28%;
+  height: 380px;
+  float: left;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+  margin-left: 2%;}
+  .secotion_two_firstpart h3 {  margin-left: 90px;}
+  .secotion_two_firstpart p {  margin-left: 90px;
+   margin-right: 30px;
+  text-align: justify;
+  font-weight: bold;}
+  .secotion_two_firstpart img { height: 100px;
+   width: 80px;
+  margin-left: 90px;}
+                  
+                  
+  .secotion_two_secondpart { width: 28%;
+  height: 380px;
+  float: left;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+  margin-left: 2%;}
+  .secotion_two_secondpart h3 {  margin-left: 90px;}
+  .secotion_two_secondpart p {  margin-left: 90px;
+  margin-right: 30px;
+  text-align: justify;
+  font-weight: bold;}
+  .secotion_two_secondpart img { height: 100px;
+  width: 80px;
+  margin-left: 90px;}
+                  
+                  
+  .secotion_two_thirdpart { width: 28%;
+  height: 380px;
+  float: left;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+  margin-left: 2%;}
+  .secotion_two_thirdpart h3 {  margin-left: 90px;}
+  .secotion_two_thirdpart p {  margin-left: 90px;
+  margin-right: 30px;
+  text-align: justify;
+  font-weight: bold;}
+  .secotion_two_thirdpart img { height: 100px;
+  width: 80px;
+  margin-left: 90px;}
+
+
+  .three { width: 100%;
+    height: 400px;
+    margin-top: 90px;
+    background-image: url(images/download.png);
+    background-repeat: no-repeat;}
+                    
+    .section_three_firtspart { width: 33%;
+    height: 400px;
+    float: left;
+    margin-left: 7%;}
+                    
+    .section_three_firtspart img { height: 350px;
+    width: 350px;
+    margin-top: 10px;}
+    .section_three_secondpart { width: 60%;
+    height: 400px;
+    float: left;}
+                    
+    .section_three_secondpart h2 { margin-left: 20px;
+    margin-top: 10px;}
+    .section_three_secondpart p { margin-left: 20px;
+    margin-right: 300px;
+    margin-top: 10px;
+    text-align: justify;
+    font-weight: bold;}
+    .second_button { padding: 10px 40px;
+    background-color: navy;
+    border-radius: 3px;
+    border: 1px solid navy;
+    margin-left: 20px;}
+    .second_button a { text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+    font-weight: 500;}
